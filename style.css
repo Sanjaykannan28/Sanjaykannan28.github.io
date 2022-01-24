@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+.don {
+  
+  background-image: url
+  
+}
+
+.mon {
+  color: rgb(59, 119, 187);
+  font-family: Mochiy Pop P One;
+  font-size: 50px;
+}
+.perodictable {
+  display: flex;
+  justify-content: center;
+}
+.p {
+  color: rgb(12, 9, 9);
+  font-size: 30px;
+}
+.perodictable2 {
+  display: flex;
+  justify-content: center;
+}
+.bahu {
+  width: 700x;
+  height: 250px;
+}
+.btn{
+  object-position: bottom;
+}
+.s{
+  color: rgb(248, 11, 11);
+  font-size: 25px
+}
+.t{
+  color: rgb(248, 20, 20);
+  font-size: 30px;
+}
+.w{
+  color:rgb(228, 15, 58);
+  font-size: 30px;
+  
+}
