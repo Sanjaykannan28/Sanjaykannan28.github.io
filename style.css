@@ -1,14 +1,33 @@
 @import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+:root {
+  @media only screen and (max-width: 1200px) {
+  :root {
+    font-size: 30px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  :root {
+    font-size: 20px;
+  }
+}
+
+
+}
+
+
+
+
+
 .don {
   
-  background-image: url
+  background-color: darkgray;
   
 }
 
 .mon {
   color: rgb(59, 119, 187);
   font-family: Mochiy Pop P One;
-  font-size: 50px;
+  font-size: 2rem;
 }
 .perodictable {
   display: flex;
@@ -16,29 +35,27 @@
 }
 .p {
   color: rgb(12, 9, 9);
-  font-size: 30px;
+  font-size: 1rem;
+  font-style: normal;
+  font-stretch: narrower;
 }
-.perodictable2 {
-  display: flex;
-  justify-content: center;
+.d{
+  color: black;
+  font-size: 1rem;
+  font-style: normal;
+  font-stretch: semi-condensed;
 }
-.bahu {
-  width: 700x;
-  height: 250px;
-}
+
 .btn{
   object-position: bottom;
 }
 .s{
   color: rgb(248, 11, 11);
-  font-size: 25px
+  font-size: 1rem;
+  font-style:normal;
 }
 .t{
-  color: rgb(248, 20, 20);
-  font-size: 30px;
-}
-.w{
-  color:rgb(228, 15, 58);
-  font-size: 30px;
-  
+  color: rgb(19, 18, 18);
+  font-size: 1rem;
+  font-style: normal;
 }
