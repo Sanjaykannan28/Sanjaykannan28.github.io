@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
 :root {
   @media only screen and (max-width: 1200px) {
   :root {
@@ -20,12 +21,12 @@
 
 .don {
   
-  background-color: darkgray;
+  background-color: rgb(58, 58, 78);
   
 }
 
 .mon {
-  color: rgb(59, 119, 187);
+  color: rgb(59, 126, 189);
   font-family: Mochiy Pop P One;
   font-size: 2rem;
 }
@@ -34,28 +35,33 @@
   justify-content: center;
 }
 .p {
-  color: rgb(12, 9, 9);
+  color: rgb(250, 245, 245);
   font-size: 1rem;
   font-style: normal;
   font-stretch: narrower;
+   font-family: Mochiy Pop P One;
+
 }
 .d{
-  color: black;
+  color: rgb(247, 241, 241);
   font-size: 1rem;
   font-style: normal;
   font-stretch: semi-condensed;
+  font-family: Mochiy Pop P One;
 }
 
 .btn{
   object-position: bottom;
 }
 .s{
-  color: rgb(248, 11, 11);
+  color: rgb(255, 254, 254);
   font-size: 1rem;
   font-style:normal;
+  font-family: Mochiy Pop P One;
 }
 .t{
-  color: rgb(19, 18, 18);
+  color: rgb(255, 245, 245);
   font-size: 1rem;
   font-style: normal;
+   font-family: Mochiy Pop P One;
 }
