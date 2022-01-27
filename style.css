@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
 
 :root {
   @media only screen and (max-width: 1200px) {
@@ -21,12 +22,12 @@
 
 .don {
   
-  background-color: rgb(58, 58, 78);
+  background-color: rgb(19, 21, 22);
   
 }
 
 .mon {
-  color: rgb(59, 126, 189);
+  color: rgb(242, 242, 250);
   font-family: Mochiy Pop P One;
   font-size: 2rem;
 }
@@ -39,7 +40,7 @@
   font-size: 1rem;
   font-style: normal;
   font-stretch: narrower;
-   font-family: Mochiy Pop P One;
+   font-family: Roboto Mono;
 
 }
 .d{
@@ -47,7 +48,7 @@
   font-size: 1rem;
   font-style: normal;
   font-stretch: semi-condensed;
-  font-family: Mochiy Pop P One;
+  font-family: Roboto Mono;
 }
 
 .btn{
@@ -57,16 +58,16 @@
   color: rgb(255, 254, 254);
   font-size: 1rem;
   font-style:normal;
-  font-family: Mochiy Pop P One;
+  font-family: Roboto Mono;
 }
 .t{
   color: rgb(255, 245, 245);
   font-size: 1rem;
   font-style: normal;
-   font-family: Mochiy Pop P One;
+   font-family: Roboto Mono;
 }
 .j{
-  color: white;
+  color: rgb(238, 223, 223);
   font: size 1rem;
-  font-family: Mochiy Pop P One;
+  font-family:Roboto Mono;
 }
